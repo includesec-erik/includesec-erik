@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Erik
+- 👀 I’m interested in rm -rf /
+- 🌱 I’m currently learning /dev/null
+- 💞️ I’m looking to collaborate on /dev/urandom
+- 📫 How to reach me echo /dev/console
